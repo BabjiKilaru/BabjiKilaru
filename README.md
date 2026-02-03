@@ -6,7 +6,7 @@
 &emsp; Welcome to my GitHub profile! I'm a Results-driven Full Stack Software Engineer with 3+ years of experience building scalable web applications and backend services using Java (Spring Boot, Hibernate), Python, Node.js, and SQL. Specialized in microservices, REST/GraphQL APIs, and performance tuning in Agile/Scrum teams, with strong ownership across sprint planning, estimation, and cross-functional delivery with Product, QA, and DevOps. Skilled in React.js, Angular, TypeScript, and modern JavaScript for responsive, accessible UIs, integrating backend services via Express.js and NestJS. Experienced in AWS/Azure, Docker, and CI/CD using GitHub Actions and GitLab, with strong database expertise across PostgreSQL, MySQL, MongoDB, DynamoDB, Cassandra, plus event-driven systems using Kafka and AWS SQS secured with OAuth2/JWT.
 ## 📚**Education**
 
-<img align="right" alt="GIF" src="https://github.com/deepthireddy246/deepthireddy246/blob/main/coding.gif" width="408" height="318"/>
+<img align="right" alt="GIF" src="https://github.com/BabjiKilaru/BabjiKilaru/blob/main/coding.gif" width="408" height="318"/>
 
 **University of Missouri-Kansas City** <br/>
 Master's in Computer Science | GPA : 3.68/4.0 <br/>
@@ -45,15 +45,6 @@ systems & Digital Image Processing.
 | IDE & OS | : | Visual Studio Code, NetBeans, Eclipse Jupyter Notebook, Sublime, PyCharm, & Linux, Windows, MacOS.  |
 
 
-
-\textbf{Programming Languages \& Frameworks}{: Java, Python J2EE, Spring Boot, Spring MVC, Hibernate, JDBC, SQL, PL/SQL.} \\
-            \textbf{Frontend Technologies}{: HTML5, CSS3, JavaScript, TypeScript, React.js, Angular, Bootstrap, UI/UX Design, Responsive Web Design.} \\
-            \textbf{Security \& API Management}{: RESTful Services, GraphQL, OAuth2, JWT, Role-Based Access Control (RBAC), Swagger, Postman.} \\
-            \textbf{Databases \& Data Management}{: MySQL, Oracle, SQL Server, MongoDB.} \\
-            \textbf{Cloud \& DevOps}{: AWS, Azure, Docker, Kubernetes, CI/CD Pipelines(GitHub Actions, GitLab CI/CD).} \\
-            \textbf{Testing \& Performance}{: JUnit, Mockito, Selenium, Load Testing, Performance Tuning.} \\
-            \textbf{Version Control \& Build Tools}{: Git, GitHub, GitLab, Bitbucket, Maven.} \\
-            \textbf{Project Management \& Collaboration}{: Agile (Scrum/Kanban), JIRA, Confluence, Code Reviews, Sprint Planning, Cross-Functional Team Collaboration.} 
 
 ## 📚**Publications**
 
